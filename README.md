@@ -24,11 +24,11 @@
 
 ## Skills:
 <p align="center">
-  <img  width="100" src="https://img.icons8.com/bubbles/256/react.png"/>
-  <img width="100" src="https://img.icons8.com/color/256/nodejs.png"/>
-  <img width="100" src="https://img.icons8.com/color/256/mongodb.png"/>
-  <img width="100" src="https://img.icons8.com/color/256/express-js.png"/>
-  <img width="100" src="https://img.icons8.com/fluency/256/laravel.png"/>
-  <img width="100" src="https://img.icons8.com/fluency/256/mysql-logo.png>
+  <img  width="50" src="https://img.icons8.com/bubbles/256/react.png"/>
+  <img width="50" src="https://img.icons8.com/color/256/nodejs.png"/>
+  <img width="50" src="https://img.icons8.com/color/256/mongodb.png"/>
+  <img width="50" src="https://img.icons8.com/color/256/express-js.png"/>
+  <img width="50" src="https://img.icons8.com/fluency/256/laravel.png"/>
+  <img width="50" src="https://img.icons8.com/fluency/256/mysql-logo.png>
 </p>
 
