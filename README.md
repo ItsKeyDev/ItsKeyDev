@@ -24,7 +24,7 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://icons8.com/icon/Vra58PN2KmI5/react"/>
+  <img src="![image](https://user-images.githubusercontent.com/117164418/230639488-a1f2559f-84e1-4590-8399-6ac3d18dd943.png)"/>
   <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/>
   <img src="https://icons8.com/icon/74402/mongodb"/>
   <img src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js"/>
