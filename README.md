@@ -6,7 +6,7 @@
 
 <br />
 
-## 📫 How to contact me:
+## 📫 Contact me:
 
 
 <p align="center">
