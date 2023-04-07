@@ -9,18 +9,18 @@
 ## 📫 Contact me:
 
 
-<p align="center">
-  <a href="https://www.facebook.com/trinhxuankien.2003/" alt="Facebook">
+<p align="center">  
+  <a href="https://www.facebook.com/trinhxuankien.2003/" alt="Facebook" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.instagram.com/itskey.211/" alt="Instagram"> 
+  <a href="https://www.instagram.com/itskey.211/" alt="Instagram" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" target="_blank"/>
   </a>
-  <a href="https://github.com/ItsKeyDev" alt="Github">
+  <a href="https://github.com/ItsKeyDev" alt="Github" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/>
   </a> 
 
-  <a href="mailto:txkien.dev@gmail.com" alt="Email">
+  <a href="mailto:txkien.dev@gmail.com" alt="Email" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png" target="_blank"/>
   </a>
 </p>
