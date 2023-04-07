@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://icons8.com/icon/zQEFsjZs3lmi/alien">
+<img align="left" width="400" src="https://img.icons8.com/external-icongeek26-flat-icongeek26/256/external-alien-retro-80s-icongeek26-flat-icongeek26.png">
 <h1 align="center">Hi 👋, I'm ItsKeyDev</h1>
 <p align="center">
   <h3 align="center">A FullStack Developer </h3>
@@ -24,11 +24,11 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/officel/256/react.png"/>
-  <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/>
-  <img src="https://icons8.com/icon/74402/mongodb"/>
-  <img src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js"/>
-  <img src="https://icons8.com/icon/UG5EO81XNkPs/laravel"/>
-  <img src="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo/>
+  <img src="https://img.icons8.com/bubbles/256/react.png"/>
+  <img src="https://img.icons8.com/color/256/nodejs.png"/>
+  <img src="https://img.icons8.com/color/256/mongodb.png"/>
+  <img src="https://img.icons8.com/color/256/express-js.png"/>
+  <img src="https://img.icons8.com/fluency/256/laravel.png"/>
+  <img src="https://img.icons8.com/fluency/256/mysql-logo.png/>
 </p>
 
