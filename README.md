@@ -13,6 +13,9 @@
   <a href="https://www.facebook.com/trinhxuankien.2003/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+  <a href="https://www.instagram.com/itskey.211/" alt="Instagram">
+    <img src="https://img.icons8.com/fluency/256/instagram-new.png"/>
+  </a>
   <a href="https://github.com/ItsKeyDev" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
@@ -29,6 +32,6 @@
   <img width="50" src="https://img.icons8.com/color/256/mongodb.png"/>
   <img width="50" src="https://img.icons8.com/color/256/express-js.png"/>
   <img width="50" src="https://img.icons8.com/fluency/256/laravel.png"/>
-  <img width="50" src="https://img.icons8.com/fluency/256/mysql-logo.png />
+  <img width="50" src="https://img.icons8.com/fluency/256/mysql-logo.png"/>
 </p>
 
