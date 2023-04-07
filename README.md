@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://www.instagram.com/itskey.211/" alt="Instagram">
-    <img src="https://img.icons8.com/fluency/256/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
   <a href="https://github.com/ItsKeyDev" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
@@ -27,11 +27,11 @@
 
 ## Skills:
 <p align="center">
-  <img  width="50" src="https://img.icons8.com/bubbles/256/react.png"/>
-  <img width="50" src="https://img.icons8.com/color/256/nodejs.png"/>
-  <img width="50" src="https://img.icons8.com/color/256/mongodb.png"/>
-  <img width="50" src="https://img.icons8.com/color/256/express-js.png"/>
-  <img width="50" src="https://img.icons8.com/fluency/256/laravel.png"/>
-  <img width="50" src="https://img.icons8.com/fluency/256/mysql-logo.png"/>
+  <img  src="https://img.icons8.com/bubbles/56/react.png"/>
+  <img  src="https://img.icons8.com/color/56/nodejs.png"/>
+  <img  src="https://img.icons8.com/color/56/mongodb.png"/>
+  <img  src="https://img.icons8.com/color/56/express-js.png"/>
+  <img  src="https://img.icons8.com/fluency/56/laravel.png"/>
+  <img  src="https://img.icons8.com/fluency/56/mysql-logo.png"/>
 </p>
 
