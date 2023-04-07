@@ -13,15 +13,15 @@
   <a href="https://www.facebook.com/trinhxuankien.2003/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.instagram.com/itskey.211/" alt="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+  <a href="https://www.instagram.com/itskey.211/" alt="Instagram"> 
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" target="_blank"/>
   </a>
   <a href="https://github.com/ItsKeyDev" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/>
   </a> 
 
   <a href="mailto:txkien.dev@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" target="_blank"/>
   </a>
 </p>
 
