@@ -24,7 +24,7 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/bubbles/256/react.png"/>
+  <img  width="100" src="https://img.icons8.com/bubbles/256/react.png"/>
   <img src="https://img.icons8.com/color/256/nodejs.png"/>
   <img src="https://img.icons8.com/color/256/mongodb.png"/>
   <img src="https://img.icons8.com/color/256/express-js.png"/>
