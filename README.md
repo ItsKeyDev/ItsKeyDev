@@ -31,7 +31,5 @@
   <img   src="https://img.icons8.com/color/56/nodejs.png"/>
   <img  src="https://img.icons8.com/color/56/mongodb.png"/>
   <img  src="https://img.icons8.com/color/56/express-js.png"/>
-  <img  src="https://img.icons8.com/fluency/56/laravel.png"/>
-  <img  src="https://img.icons8.com/fluency/56/mysql-logo.png"/>
 </p>
 
